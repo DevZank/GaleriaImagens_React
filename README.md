@@ -1,5 +1,7 @@
 # Galeria de Imagens - React Project
 
+![Captura de tela 2024-05-18 234834](https://github.com/DevZank/GaleriaImagens_React/assets/111926496/10a6a280-4bc6-4c66-be9e-44b16617021d)
+
 Este projeto é uma galeria de imagens simples desenvolvida com React. Ele permite que os usuários adicionem URLs de novas imagens para exibição na galeria. A interface é amigável, facilitando a navegação e adição de novas imagens.
 
 ## Funcionalidades
